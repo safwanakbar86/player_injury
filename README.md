@@ -8,3 +8,9 @@ The dataset consists of information regarding injuries of cricket players. It is
 * Training_Intensity is a float value between 0 and 1 identifying severity of a player's training
 * Recovery_Time is an integer value between 1 to 6 specifying number of days for a player's recovery
 * Likelihood_of_Injury is a categorical (boolean) value representing likelihood of a player's injury
+
+The notebook file includes cleaning, analysis, and visualization of the dataset. The following libraries were used.
+
+* Pandas
+* Matplotlib
+* Seaborn
