@@ -1,4 +1,4 @@
-## Player Injury
+# Player Injury
 
 The dataset consists of information regarding injuries of cricket players. It is available on [Kaggle](https://www.kaggle.com/) and includes seven columns.
 
