@@ -1,9 +1,8 @@
 # Player Injury Analysis
 
 1. The dataset consists of information regarding injuries of cricket players
-2. It is available on [Kaggle](https://www.kaggle.com/)
-3. The analysis notebook includes cleaning, analysis, and visualization of the dataset
-4. The model notebook contains machine learning implementation and evaluation
+2. The analysis notebook includes cleaning, analysis, and visualization of the dataset
+3. The model notebook contains machine learning implementation and evaluation
 
 ## Dataset Columns
 
