@@ -1,8 +1,11 @@
-# Player Injury
+# Player Injury Analysis
 
-The dataset consists of information regarding injuries of cricket players, and is available on [Kaggle](https://www.kaggle.com/). The notebook file includes cleaning, analysis, and visualization of the dataset.
+1. The dataset consists of information regarding injuries of cricket players
+2. It is available on [Kaggle](https://www.kaggle.com/)
+3. The analysis notebook includes cleaning, analysis, and visualization of the dataset
+4. The model notebook contains machine learning implementation and evaluation
 
-The following columns are in the dataset:
+## Dataset Columns
 
 * Player_Age
 * Player_Weight
@@ -12,8 +15,16 @@ The following columns are in the dataset:
 * Recovery_Time
 * Likelihood_of_Injury
 
-The following libraries were used:
+## Data Analysis Libraries
 
 * Pandas
 * Matplotlib
 * Seaborn
+
+## Classification Model Components
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
